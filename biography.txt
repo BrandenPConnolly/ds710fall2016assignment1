@@ -1,8 +1,22 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+Branden Connolly
+
 2. Why are you interested in Data Science?
+I have been working several years in an data analyst position and would like to add more depth to my reports and to my analysis
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I have a some programming experience. I took a Java course at Marquette and a R programming course through Coursera. In my job I use SQL Management Studio on a daily basis and occasionally I use Visual Basic.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have taken a introduction to stats course at UWM. In my job I use some basic stats (mean, median, and mode, SD).
+
 5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
+Beyond some self learning and some on codecademy I have little experience with python.
+
+6.  What do you hope to learn in this class? 
+I hope to learn how to employe programming languages beyond SQL in my work to provide depth to my my reporting.
+
+
 7.  Is there anything else you would like to share with us?
+Even though I come from a non-technical background I have developed a love for data. 
